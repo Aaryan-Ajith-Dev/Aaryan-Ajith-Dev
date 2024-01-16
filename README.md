@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 -->
 
-- 🔭 I’m currently working on : nothing in particular
-- 🌱 I’m currently learning : blockchain
-- ⚡ Fun fact: A backend developer who likes react(ion).
+- 🎓 Second year CSE student at IIIT Bangalore.
+- 🔭 I’m currently working on: backend
+- 🌱 I’m currently learning blockchain
+- ⚡ Fun fact: A backend developer who likes react(ion)
