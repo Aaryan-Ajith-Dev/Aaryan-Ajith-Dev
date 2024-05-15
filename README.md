@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with : 
 - 💬 Ask me about ...
 - 📫 How to reach me: 
+- Codeforces 1247 (pupil)
 -->
 
 - 🎓 Second year CSE student at IIIT Bangalore.
