@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with : 
 - 💬 Ask me about ...
 - 📫 How to reach me: 
-- Codeforces 1247 (pupil)
 -->
 
 - 🎓 Second year CSE student at IIIT Bangalore.
 - 🔭 I’m currently working on: backend
 - 🌱 I’m currently learning blockchain
+- Codeforces 1247 (pupil)
 <!--- ⚡ Fun fact: A backend developer who likes react(ion)
