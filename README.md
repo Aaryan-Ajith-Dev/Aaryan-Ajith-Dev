@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning blockchain
 - Codeforces 1247 (pupil)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Aaryan-Ajith-Dev&color=green)](https://github.com/Aaryan-Ajith-Dev/github-readme-stats)  
+[![Profile Views](https://komarev.com/ghpvc/?username=Aaryan-Ajith-Dev&color=green)](https://github.com/Aaryan-Ajith-Dev)  
 <br />
-[![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaryan-Ajith-Dev)](https://github.com/Aaryan-Ajith-Dev/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan-Ajith-Dev&layout=compact)](https://github.com/Aaryan-Ajith-Dev)
+
+<br />
+[![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaryan-Ajith-Dev)](https://github.com/Aaryan-Ajith-Dev)
 <!--- ⚡ Fun fact: A backend developer who likes react(ion)
