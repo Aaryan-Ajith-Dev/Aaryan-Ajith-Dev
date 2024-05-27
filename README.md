@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on: backend
 - 🌱 I’m currently learning blockchain
 - Codeforces 1247 (pupil)
-https://komarev.com/ghpvc/?username=Aaryan-Ajith-Dev&color=green
 <!--- ⚡ Fun fact: A backend developer who likes react(ion)
+https://komarev.com/ghpvc/?username=Aaryan-Ajith-Dev&color=green
