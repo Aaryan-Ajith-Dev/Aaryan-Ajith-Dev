@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: 
 -->
-
 - 🎓 Second year CSE student at IIIT Bangalore.
 - 🔭 I’m currently working on: backend
 - 🌱 I’m currently learning blockchain
 - Codeforces 1247 (pupil)
+- https://komarev.com/ghpvc/?username=Aaryan-Ajith-Dev&color=green
 <!--- ⚡ Fun fact: A backend developer who likes react(ion)
