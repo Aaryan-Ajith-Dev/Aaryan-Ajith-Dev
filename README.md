@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on: backend
 - 🌱 I’m currently learning blockchain
 - Codeforces 1247 (pupil)
--⚡ Fun fact: I love making math models (and naturally physics)
+- ⚡ Fun fact: I love making math models (and naturally physics)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Aaryan-Ajith-Dev&color=green)](https://github.com/Aaryan-Ajith-Dev)  
 
