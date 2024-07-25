@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 - 🎓 Second year CSE student at IIIT Bangalore.
 - 🔭 I’m currently working on: backend
-- 🌱 I’m currently learning blockchain
+- 🌱 I’m currently learning ML
 - Codeforces 1247 (pupil)
 - ⚡ Fun fact: I love making math models (and naturally physics)
 
