@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 🎓 Third year CSE student at IIIT Bangalore.
 - 🔭 I’m currently working on: Physics informed ML
 - 🌱 I’m currently learning Machine Learning and NoSQL systems
-- Codeforces 1247 (pupil)
 - ⚡ Fun fact: I love making math models (and naturally physics)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Aaryan-Ajith-Dev&color=green)](https://github.com/Aaryan-Ajith-Dev)  
