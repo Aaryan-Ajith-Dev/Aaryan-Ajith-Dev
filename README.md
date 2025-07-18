@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 -->
 - 🎓 Third year CSE student at IIIT Bangalore.
-- 🔭 I’m currently working on: quantum computing
-- 🌱 I’m currently learning quantum information and NoSQL systems
+- 🔭 I’m currently working on: Physics informed ML
+- 🌱 I’m currently learning Machine Learning and NoSQL systems
 - Codeforces 1247 (pupil)
 - ⚡ Fun fact: I love making math models (and naturally physics)
 
