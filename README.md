@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: 
 -->
-- 🎓 Third year CSE student at IIIT Bangalore.
+- 🎓 Fourth year CSE student at IIIT Bangalore.
 - 🔭 I’m currently working on: Physics informed ML
 
 - ⚡ Fun fact: I love making math models (and naturally physics)
